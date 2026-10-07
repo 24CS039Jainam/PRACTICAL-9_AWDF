@@ -1,0 +1,12 @@
+{
+  "register": {
+    "email": "jainam24cs039@example.com",
+    "password": "Jainam@123"
+  },
+  "task": {
+    "title": "Measure cache performance",
+    "description": "Task created for AWDF Practical 9 testing",
+    "completed": false,
+    "priority": "high"
+  }
+}
